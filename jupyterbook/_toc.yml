@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: context
+- file: etl
+- file: eda
+- file: tasas
+- file: moranindex
+- file: mapas
+- file: modelos
+- file: diccionario
+
+
